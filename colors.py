@@ -1,6 +1,6 @@
 print('colors')
 print('colors two')
-a=3
-b=5
+a=34
+b=7
 print(a+b)
 print('lololol')
